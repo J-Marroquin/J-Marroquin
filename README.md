@@ -12,8 +12,8 @@ I am an **Actuarial Analyst, Data Scientist, and Backend Developer** with expert
 🔹 **Frontend Development** – Build interactive UIs with **Next.js, Angular, and React**.  
 
 ### 🛠️ Tech Stack  
-- **Programming:** Python, C#/.NET, SQL, R, Visual Basic, JavaScript (Node.js, Next.js, Angular)  
-- **Data Science & Analytics:** Power BI, Tableau, Excel, PowerQuery, SAS  
+- **Programming:** Python, C#/.NET, R, Visual Basic, JavaScript (Node.js, Next.js, Angular)  
+- **Data Science & Analytics:** SQL, Power BI, Tableau, Excel, PowerQuery, SAS  
 - **Development Tools:** Git  
 - **Cloud & DevOps:**  Docker, Docker Compose and Azure (Functions, Storage, App Services)
 - **Productivity & Documentation** Microsoft Office 365 (Word, Excel, PowerPoint), LaTeX  
