@@ -30,9 +30,9 @@ I am an **Actuarial Analyst, Data Scientist, and Backend Developer** with expert
 📧 Email: [jesusmarro12reyes@gmail.com](mailto:jesusmarro12reyes@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/jesús-marroquín](https://www.linkedin.com/in/jesús-marroquín/)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=J-Marroquin&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 🚀 Always open to collaboration on **data science,automation, backend development, and cloud computing projects**!  
-
-
 <!---
 J-Marroquin/J-Marroquin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
