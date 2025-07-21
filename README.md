@@ -15,7 +15,7 @@ I am an **Actuarial Analyst, Data Scientist, and Backend Developer** with expert
 - **Programming:** Python, C#/.NET, R, Visual Basic, JavaScript (Node.js, Next.js, Angular)  
 - **Data Science & Analytics:** SQL, Power BI, Tableau, Excel, PowerQuery, SAS  
 - **Development Tools:** Git  
-- **Cloud & DevOps:**  Docker, Docker Compose and Azure (Functions, Storage, App Services)
+- **Cloud & DevOps:**  AWS(S3), Docker, Docker Compose and Azure (Functions, Storage, App Services)
 - **Productivity & Documentation** Microsoft Office 365 (Word, Excel, PowerPoint), LaTeX  
 - **ERP Systems:** SAP Business One (SAP B1)  
 
