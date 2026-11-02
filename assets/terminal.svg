@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 442" width="860" role="img" aria-labelledby="t d">
+<title id="t">Terminal card: whoami</title>
+<desc id="d">Specialist Backend Developer focused on backend, distributed systems and cloud. C# and .NET, REST APIs, microservices, AWS, Docker, CI/CD. B.Sc. Actuarial Science. Based in Mérida, Mexico.</desc>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:15px}
+.k{fill:#7d8590} .a{fill:#484f58} .v{fill:#e6edf3}
+.p{fill:#3fb950;font-weight:600} .pp{fill:#58a6ff;font-weight:600} .c{fill:#e6edf3}
+.ttl{fill:#7d8590;font-size:13px}
+.row{animation:f .45s ease-out both}
+@keyframes f{from{opacity:0;transform:translateX(-8px)}}
+.ty{animation:ty .7s steps(6,end) .4s both}
+@keyframes ty{from{width:0}}
+.p2{animation:f .3s ease-out 3.46s both}
+.cur{fill:#e6edf3;animation:f .01s 3.46s both,b 1.1s steps(1) 3.76s infinite}
+@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.row,.ty,.p2,.cur{animation:none}}
+</style>
+<defs><clipPath id="cp"><rect class="ty" x="190" y="60" width="54" height="30"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="859" height="441" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 40h858V12.5A11.5 11.5 0 0 0 847.5 1h-835A11.5 11.5 0 0 0 1 12.5z" fill="#161b22"/>
+<line x1="1" x2="859" y1="40.5" y2="40.5" stroke="#30363d"/>
+<circle cx="26" cy="21" r="6" fill="#ff5f56"/><circle cx="48" cy="21" r="6" fill="#ffbd2e"/><circle cx="70" cy="21" r="6" fill="#27c93f"/>
+<text class="ttl" x="430" y="25" text-anchor="middle">jesus@github: ~</text>
+<text x="40" y="88"><tspan class="p">jesus</tspan><tspan class="c">@</tspan><tspan class="pp">github</tspan><tspan class="c">:~$</tspan></text>
+<text class="c" x="190" y="88" textLength="54" lengthAdjust="spacing" clip-path="url(#cp)">whoami</text>
+<g class="row" style="animation-delay:1.50s"><text class="k" x="40" y="140">role</text><text class="a" x="172" y="140">→</text><text class="v" x="204" y="140">Specialist Backend Developer</text></g>
+<g class="row" style="animation-delay:1.72s"><text class="k" x="40" y="170">focus</text><text class="a" x="172" y="170">→</text><text class="v" x="204" y="170">Backend · Distributed Systems · Cloud</text></g>
+<g class="row" style="animation-delay:1.94s"><text class="k" x="40" y="200">core</text><text class="a" x="172" y="200">→</text><text class="v" x="204" y="200">C# / .NET · REST APIs · Microservices</text></g>
+<g class="row" style="animation-delay:2.16s"><text class="k" x="40" y="230">cloud</text><text class="a" x="172" y="230">→</text><text class="v" x="204" y="230">AWS · Docker · CI/CD</text></g>
+<g class="row" style="animation-delay:2.38s"><text class="k" x="40" y="260">quality</text><text class="a" x="172" y="260">→</text><text class="v" x="204" y="260">Integration · contract · end-to-end testing</text></g>
+<g class="row" style="animation-delay:2.60s"><text class="k" x="40" y="290">ai</text><text class="a" x="172" y="290">→</text><text class="v" x="204" y="290">Claude Code · Codex · OpenCode · DeepSeek</text></g>
+<g class="row" style="animation-delay:2.82s"><text class="k" x="40" y="320">background</text><text class="a" x="172" y="320">→</text><text class="v" x="204" y="320">B.Sc. Actuarial Science</text></g>
+<g class="row" style="animation-delay:3.04s"><text class="k" x="40" y="350">location</text><text class="a" x="172" y="350">→</text><text class="v" x="204" y="350">Mérida, Mexico</text></g>
+<g class="p2"><text x="40" y="402"><tspan class="p">jesus</tspan><tspan class="c">@</tspan><tspan class="pp">github</tspan><tspan class="c">:~$</tspan></text></g>
+<rect class="cur" x="190" y="388" width="9" height="18"/>
+</svg>
